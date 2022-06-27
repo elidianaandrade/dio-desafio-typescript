@@ -82,7 +82,7 @@
 npm init
 ```
 
-#### 2. Instalar [Typescript](https://www.npmjs.com/package/typescript) como dependência de desenvolvimento 
+### 2. Instalar [Typescript](https://www.npmjs.com/package/typescript) como dependência de desenvolvimento 
 ```
 npm install --save-dev typescript
 ```
